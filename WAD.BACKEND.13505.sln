@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAD.BACKEND.13505", "WAD.BACKEND.13505\WAD.BACKEND.13505.csproj", "{F0A42D8D-D54E-40B4-8755-641D33B0C609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAD.BACKEND.13505.DAL", "WAD.BACKEND.13505.DAL\WAD.BACKEND.13505.DAL.csproj", "{C68A848D-F40A-4C8E-AF87-12E4B78D3266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0A42D8D-D54E-40B4-8755-641D33B0C609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A42D8D-D54E-40B4-8755-641D33B0C609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A42D8D-D54E-40B4-8755-641D33B0C609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A42D8D-D54E-40B4-8755-641D33B0C609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68A848D-F40A-4C8E-AF87-12E4B78D3266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68A848D-F40A-4C8E-AF87-12E4B78D3266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68A848D-F40A-4C8E-AF87-12E4B78D3266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68A848D-F40A-4C8E-AF87-12E4B78D3266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2CA1063-0B9D-4295-83D9-58C39D77FDF6}
+	EndGlobalSection
+EndGlobal
